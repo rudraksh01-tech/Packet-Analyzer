@@ -6,3 +6,4 @@ build/
 *.o
 *.pdb
 *.ilk
+dpi_engine
