@@ -1,3 +1,8 @@
 build/
+.dist/
 .vscode/
 *.exe
+*.obj
+*.o
+*.pdb
+*.ilk
